@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 28: end of line expected.
+    {b}"CRASH!"{/b}
+               ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sat Jan 14 16:57:39 2023
