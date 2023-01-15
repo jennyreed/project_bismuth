@@ -2,9 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 28: end of line expected.
-    {b}"CRASH!"{/b}
-               ^
+The label start is defined twice, at File "game/prologue.rpy", line 11:
+label start:
+and File "game/script.rpy", line 11:
+label start:
+
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Sat Jan 14 16:57:39 2023
+Mon Jan 16 00:05:30 2023
