@@ -8,6 +8,6 @@
 label start:
 
     call prologue
-
+    call chap1
     
     return

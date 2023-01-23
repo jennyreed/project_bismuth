@@ -98,7 +98,7 @@ label prologue:
 
     ry "Shut up..."
 
-    ry "shutupshutupshutupSHUTUP!"
+    ry "shutupshutupshutupSHUTUP!" with vpunch
 
     "FWOOM"
 
